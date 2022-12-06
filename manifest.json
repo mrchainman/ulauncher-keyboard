@@ -2,7 +2,7 @@
   "required_api_version": "^2.0.0",
   "name": "KeyboardLayoutChange",
   "description": "Switch keyboard layout",
-  "developer_name": "Trafitto",
+  "developer_name": "Mr. Chainman",
   "icon": "images/icon.png",
   "options": {
     "query_debounce": 0.1
