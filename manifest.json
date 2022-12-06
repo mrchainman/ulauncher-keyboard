@@ -28,6 +28,6 @@
       "name": "kde",
       "description": "Switch to DE keyboard layout",
       "default_value": "kde"
-    },
+    }
     ]
 }
